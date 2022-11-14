@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nanci Damasceno, tudo certinho?!
 Meus pronomes: Ela/Dela.
 
-Estudante Generation Brasil Full Stack Jr. 😎
+Desenvolvedora Full Stack Jr. 😎
 
 <div align="center">
   <a href="https://github.com/nancidama">
